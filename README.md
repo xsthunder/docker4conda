@@ -17,7 +17,7 @@
 
 ## torch cpu
 
-1. 在base的基础上加入cpu版的torch
+> 在base的基础上加入cpu版的torch，可用于简易深度学习开发
 
 1. `cd torch`
 
