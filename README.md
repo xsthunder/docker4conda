@@ -1,6 +1,9 @@
 # 个人用的简易jupyter docker
 
-内含常用插件，有vim插件
+- 内含常用插件，有vim插件
+- jupyter工作目录/opt/notebooks
+- 使用conda，设置conda源，未设置pip源
+
 
 ## base 基础包
 
